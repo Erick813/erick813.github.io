@@ -2,6 +2,10 @@
 <html>
 
 
-<head>
- <title> BLADERUNNER 2049 </title>
-</head>
+<body>
+ <nav>
+   <a href="./index.html">BLADERUNNER 2049</a>
+   <a href="./aboutme.html">About Me</a>
+ </nav>
+ <h1>The Brown Bear</h1>
+
