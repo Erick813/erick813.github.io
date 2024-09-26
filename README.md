@@ -9,7 +9,7 @@
  </ul>
  <div id="introduction">
         <h2>About Marlboro in Motorsports</h2>
-        <p>### About Marlboro in Motorsports
+        <p> About Marlboro in Motorsports
 Marlboro was a prominent name in motorsports for decades, especially in Formula 1 and MotoGP. The iconic red and white branding became synonymous with racing, especially through its sponsorship of Ferrari, McLaren, and Ducati. Marlboro's presence brought significant financial support to teams but also helped establish the creedibility of motorsports to a mainstream audiences through the connection of a previously common household item, big tobacco. Though tobacco advertising in racing has largely been cased out due to regulations on tobacco advertising, Marlboro's legacy in motorsport left a chapter in the sport's history.</p>
       <h2>About Marlboro in CarCulture</h2>
         <p> In car culture, Marlboro’s influence is still felt through its association with iconic racing moments and teams. The brand's livery, is recognized worlwide with its colors and logos have become a part of the visual compliment for race car enthusiasts. This has trickled down into car culture, where Marlboro-inspired designs are often used by tuners and racing fans for personal preferance of the brand's livery, history or personal usage. The brand's contributions helped shape not just the competitive aspects of motorsports,but also leaving a lasting mark on car enthusiasts worldwide.</p>
