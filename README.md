@@ -34,4 +34,8 @@
     </div>
 
 </body>
+<body>
+bgColor="##FFFFFF" 
+</body>
+
 </html>
