@@ -22,7 +22,31 @@ Marlboro was a prominent name in motorsports for decades, especially in Formula 
             <li>Ferrari (1997–2007)</li>
         </ul>
   <h3>Iconic Drivers</h3>
-        <p>Marlboro's involvement in racing help forge legendary drivers like Ayrton Senna and Michael Schumacher to the world, with both drivers achieving great success under Marlboro sponsorship.</p>
+        <p>Marlboro's involvement in racing help forge legendary drivers to the world, with drivers achieving great success under Marlboro sponsorship.</p>
+     <h1>Iconic Drivers with Marlboro</h1>
+    <ul>
+        <li>Ayrton Senna
+            <div class="partners">Teams: McLaren (1988-1993)</div>
+        </li>
+        <li>Alain Prost
+            <div class="partners">Teams: McLaren (1984-1989)</div>
+        </li>
+        <li>Mika Häkkinen
+            <div class="partners">Teams: McLaren (1993-2001)</div>
+        </li>
+        <li>Kimi Räikkönen
+            <div class="partners">Teams: Ferrari (2007-2009)</div>
+        </li>
+        <li>Niki Lauda
+            <div class="partners">Teams: Ferrari (1974-1977, 1982-1985)</div>
+        </li>
+        <li>Nigel Mansell
+            <div class="partners">Teams: Williams (1991-1992)</div>
+        </li>
+        <li>David Coulthard
+            <div class="partners">Teams: McLaren (1996-2003)</div>
+        </li>
+    </ul>
     </div>
  <div id="media">
     <h2>Media</h2>
