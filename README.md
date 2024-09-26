@@ -24,8 +24,8 @@
     </div>
  <div id="media">
     <h2>Media</h2>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Marlboro_Ferrari.jpg" alt="Marlboro Ferrari" style="width: 80%; display: block; margin: 20px auto;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Marlboro_McLaren_F1.png" alt="Marlboro McLaren F1" style="width: 80%; display: block; margin: 20px auto;">
+        <a href="https://ibb.co/3sYcpL3"><img src="https://i.ibb.co/j5ZDy1N/180879005-6f8affad32-b.jpg" alt="180879005-6f8affad32-b" border="0"></a>
+    <a href="https://ibb.co/ZKvYwM9"><img src="https://i.ibb.co/Bjvr7Ck/1975-lancia-stratos-marlboro-group-4-b66090-1024.jpg" alt="1975-lancia-stratos-marlboro-group-4-b66090-1024" border="0"></a>
     </div>
 
 </body>
