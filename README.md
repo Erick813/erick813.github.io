@@ -4,7 +4,7 @@
    <h1>Marlboro's Presence in the Car World</h1>
  <ul>
         <li><a href="#introduction" style="color: white;">Introduction</a></li>
-        <li><a href="#impact" style="color: white;">Impact in Racing</a></li>
+        <li><a href="#impact" style="color: white;">Impact</a></li>
         <li><a href="#media" style="color: white;">Media</a></li>
  </ul>
  <div id="introduction">
