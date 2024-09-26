@@ -1,7 +1,4 @@
 # erick813.github.io
-<head>
-    <title>Marlboro’s Presence in the Car World</title>
-</head>
 
 <body bgColor="#b22222" 
             color: white;
