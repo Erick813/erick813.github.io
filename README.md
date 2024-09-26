@@ -9,7 +9,9 @@
  </ul>
  <div id="introduction">
         <h2>About Marlboro in Motorsports</h2>
-        <p>Marlboro, a prominent cigarette brand, has been deeply involved in motorsports, especially in Formula 1. The brand became highly associated with speed and performance, supporting teams like McLaren and Ferrari. Marlboro's iconic red and white livery is one of the most recognizable in racing history.</p>
+        <p>Marlboro, a cigarette brand, has been deeply involved in motorsports, especially in Formula 1. The brand became highly associated with speed and performance, supporting teams like McLaren and Ferrari. Marlboro's iconic red and white  is one of the most recognizable in racing history.</p>
+      <h2>About Marlboro in CarCulture</h2>
+        <p>________________________________.</p>
         <a href="https://en.wikipedia.org/wiki/Marlboro_(cigarette)" target="_blank" style="color: #ffcccb;">Learn More</a>
     </div>
   <div id="impact">
