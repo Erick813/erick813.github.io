@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <body style="background-color: #b22222; color: white; font-family: Arial, sans-serif;">
    <h1>Marlboro's Presence in the Car World</h1>
