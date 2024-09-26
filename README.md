@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <title>Marlboro’s Presence in the Car World</title>
-</head>
 <body style="background-color: #b22222; color: white; font-family: Arial, sans-serif;">
    <h1>Marlboro's Presence in the Car World</h1>
  <ul>
