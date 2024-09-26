@@ -2,6 +2,11 @@
 <head>
     <title>Marlboro’s Presence in the Car World</title>
 </head>
+<style> body { background-color: #b22222; 
+            color: white;
+            font-family: Arial, sans-serif;} 
+</style> 
+    
 <body>
     <h1>Marlboro's Presence in the Car World</h1>
         <ul>
